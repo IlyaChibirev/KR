@@ -1,3 +1,5 @@
+[![Header](https://github.com/IlyaChibirev/KR/blob/main/img/1.png)]
+
 Чибирев Илья Дмитриевич
 
 Добрый день, меня зовут Илья, и я студент Нетологии курса Java.
